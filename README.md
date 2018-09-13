@@ -15,5 +15,5 @@ A text program to analyze, search and replace text.
 ## Run
 Run the executable or Jar file.
 
-EXE: https://github.com/anthonytran2/Antext/blob/master/Antext.exe
-JAR: https://github.com/anthonytran2/Antext/blob/master/Antext.jar
+- EXE: https://github.com/anthonytran2/Antext/blob/master/Antext.exe
+- JAR: https://github.com/anthonytran2/Antext/blob/master/Antext.jar
